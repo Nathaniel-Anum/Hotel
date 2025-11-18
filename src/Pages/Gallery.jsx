@@ -3,7 +3,7 @@ import accomodation from "../pic/Accomo.jpg";
 import laundry from "../pic/laundry.jpg";
 import restaurant from "../pic/bar.jpg";
 import events from "../pic/event.jpg";
-import weddings from "../pic/Wedding.jpg";
+// import weddings from "../pic/Wedding.jpg";
 import engagement from "../pic/Engagement.jpg";
 import birthday from "../pic/Birthday.jpg";
 
@@ -14,7 +14,7 @@ const images = [
   { src: laundry, title: "Laundry Services" },
   { src: restaurant, title: "Restaurant & Bar" },
   { src: events, title: "Events" },
-  { src: weddings, title: "Weddings" },
+  // { src: weddings, title: "Weddings" },
   { src: engagement, title: "Engagements" },
   { src: birthday, title: "Birthday Parties" },
 ];
